@@ -1,0 +1,7 @@
+Sistema de automação para Restaurantes.
+
+Desenvolvido com:
+   Lazarus 1.6
+   FreePascal 3.0.0
+   Firebird 3.0.0
+   Ambiente: Windows 10 | Linux Ubuntu 16.04 LTS
