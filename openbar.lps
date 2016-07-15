@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <ProjectSession>
+    <PathDelim Value="\"/>
+    <Version Value="9"/>
+    <BuildModes Active="Default"/>
+    <Units Count="5">
+      <Unit0>
+        <Filename Value="openbar.lpr"/>
+        <IsPartOfProject Value="True"/>
+        <EditorIndex Value="-1"/>
+        <WindowIndex Value="-1"/>
+        <TopLine Value="-1"/>
+        <CursorPos X="-1" Y="-1"/>
+        <UsageCount Value="22"/>
+      </Unit0>
+      <Unit1>
+        <Filename Value="src\forms\uprincipal.pas"/>
+        <IsPartOfProject Value="True"/>
+        <ComponentName Value="Form1"/>
+        <HasResources Value="True"/>
+        <ResourceBaseClass Value="Form"/>
+        <CursorPos X="71" Y="12"/>
+        <UsageCount Value="22"/>
+        <Loaded Value="True"/>
+        <LoadedDesigner Value="True"/>
+      </Unit1>
+      <Unit2>
+        <Filename Value="configs\schemas\tabela_categorias.sql"/>
+        <IsPartOfProject Value="True"/>
+        <EditorIndex Value="1"/>
+        <CursorPos X="115" Y="14"/>
+        <UsageCount Value="22"/>
+        <Loaded Value="True"/>
+        <DefaultSyntaxHighlighter Value="SQL"/>
+      </Unit2>
+      <Unit3>
+        <Filename Value="src\models\ucategoriamodel.pas"/>
+        <IsPartOfProject Value="True"/>
+        <IsVisibleTab Value="True"/>
+        <EditorIndex Value="2"/>
+        <CursorPos X="25" Y="15"/>
+        <UsageCount Value="22"/>
+        <Loaded Value="True"/>
+      </Unit3>
+      <Unit4>
+        <Filename Value="src\models\daos\ucategoriadao.pas"/>
+        <IsPartOfProject Value="True"/>
+        <EditorIndex Value="3"/>
+        <CursorPos X="16" Y="10"/>
+        <UsageCount Value="22"/>
+        <Loaded Value="True"/>
+      </Unit4>
+    </Units>
+    <JumpHistory Count="8" HistoryIndex="7">
+      <Position1>
+        <Filename Value="src\forms\uprincipal.pas"/>
+        <Caret Line="5"/>
+      </Position1>
+      <Position2>
+        <Filename Value="src\models\ucategoriamodel.pas"/>
+        <Caret Line="50" Column="9" TopLine="33"/>
+      </Position2>
+      <Position3>
+        <Filename Value="src\forms\uprincipal.pas"/>
+      </Position3>
+      <Position4>
+        <Filename Value="src\forms\uprincipal.pas"/>
+        <Caret Line="11" Column="71"/>
+      </Position4>
+      <Position5>
+        <Filename Value="src\models\ucategoriamodel.pas"/>
+        <Caret Line="105" Column="23" TopLine="88"/>
+      </Position5>
+      <Position6>
+        <Filename Value="src\models\ucategoriamodel.pas"/>
+        <Caret Line="73" Column="10" TopLine="62"/>
+      </Position6>
+      <Position7>
+        <Filename Value="src\models\ucategoriamodel.pas"/>
+        <Caret Line="24" Column="16" TopLine="14"/>
+      </Position7>
+      <Position8>
+        <Filename Value="src\models\ucategoriamodel.pas"/>
+        <Caret Line="68" Column="10" TopLine="57"/>
+      </Position8>
+    </JumpHistory>
+  </ProjectSession>
+</CONFIG>

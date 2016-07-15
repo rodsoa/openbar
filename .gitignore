@@ -1,0 +1,11 @@
+*.bak
+*.res
+*.exe
+lib/
+vendor/
+src/*.bak
+src/*res
+src/forms/*.bak
+src/datamodules/*.bak
+src/models/*.bak
+src/models/daos/*.bak
