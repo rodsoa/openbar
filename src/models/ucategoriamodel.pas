@@ -18,8 +18,6 @@ type
       fCriado : string;
       fAtualizado : string;
 
-    public
-      { public declarations}
       function getId() : integer;
       function getCodigo() : integer;
       function getNome() : string;
@@ -34,6 +32,8 @@ type
       procedure setCriado( data : string );
       procedure setAtualizado( data : string );
 
+    public
+      { public declarations}
       property Id : integer read getId write setId;
       property Codigo : integer read getCodigo write setCodigo;
       property Nome : string read getNome write setNome;
