@@ -29,9 +29,8 @@
       <Unit2>
         <Filename Value="configs\schemas\tabela_categorias.sql"/>
         <IsPartOfProject Value="True"/>
-        <IsVisibleTab Value="True"/>
         <EditorIndex Value="3"/>
-        <CursorPos X="42" Y="2"/>
+        <CursorPos X="98" Y="11"/>
         <UsageCount Value="23"/>
         <Loaded Value="True"/>
         <DefaultSyntaxHighlighter Value="SQL"/>
@@ -39,6 +38,7 @@
       <Unit3>
         <Filename Value="src\models\ucategoriamodel.pas"/>
         <IsPartOfProject Value="True"/>
+        <IsVisibleTab Value="True"/>
         <EditorIndex Value="1"/>
         <CursorPos X="5" Y="12"/>
         <UsageCount Value="23"/>
