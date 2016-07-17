@@ -10,10 +10,9 @@ uses
 
 type
 
-  { TForm1 }
+  { TjanelaPrincipal }
 
-  TForm1 = class(TForm)
-    IBConnection1: TIBConnection;
+  TjanelaPrincipal = class(TForm)
   private
     { private declarations }
   public
@@ -21,7 +20,7 @@ type
   end;
 
 var
-  Form1: TForm1;
+  janelaPrincipal: TjanelaPrincipal;
 
 implementation
 

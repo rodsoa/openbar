@@ -1,3 +1,6 @@
+/*
+ * TODO: Criar inserts iniciais da tabela
+ */
 use openbar;
 
 create table categorias(

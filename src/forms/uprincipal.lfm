@@ -1,20 +1,8 @@
-object Form1: TForm1
+object janelaPrincipal: TjanelaPrincipal
   Left = 479
   Height = 240
   Top = 256
   Width = 320
-  Caption = 'Form1'
+  Caption = 'janelaPrincipal'
   LCLVersion = '1.6.0.4'
-  object IBConnection1: TIBConnection
-    Connected = False
-    LoginPrompt = False
-    DatabaseName = 'C:\Users\rodso\Projetos\OpenBar\databases\OPENBAR.DB'
-    KeepConnection = False
-    Password = '211194'
-    UserName = 'sysdba'
-    HostName = 'localhost'
-    Options = []
-    left = 40
-    top = 32
-  end
 end

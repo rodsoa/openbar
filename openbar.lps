@@ -12,47 +12,48 @@
         <WindowIndex Value="-1"/>
         <TopLine Value="-1"/>
         <CursorPos X="-1" Y="-1"/>
-        <UsageCount Value="22"/>
+        <UsageCount Value="23"/>
       </Unit0>
       <Unit1>
         <Filename Value="src\forms\uprincipal.pas"/>
         <IsPartOfProject Value="True"/>
-        <ComponentName Value="Form1"/>
+        <ComponentName Value="janelaPrincipal"/>
         <HasResources Value="True"/>
         <ResourceBaseClass Value="Form"/>
+        <TopLine Value="9"/>
         <CursorPos X="71" Y="12"/>
-        <UsageCount Value="22"/>
+        <UsageCount Value="23"/>
         <Loaded Value="True"/>
         <LoadedDesigner Value="True"/>
       </Unit1>
       <Unit2>
         <Filename Value="configs\schemas\tabela_categorias.sql"/>
         <IsPartOfProject Value="True"/>
-        <EditorIndex Value="1"/>
-        <CursorPos X="115" Y="14"/>
-        <UsageCount Value="22"/>
+        <IsVisibleTab Value="True"/>
+        <EditorIndex Value="3"/>
+        <CursorPos X="42" Y="2"/>
+        <UsageCount Value="23"/>
         <Loaded Value="True"/>
         <DefaultSyntaxHighlighter Value="SQL"/>
       </Unit2>
       <Unit3>
         <Filename Value="src\models\ucategoriamodel.pas"/>
         <IsPartOfProject Value="True"/>
-        <IsVisibleTab Value="True"/>
-        <EditorIndex Value="2"/>
-        <CursorPos X="25" Y="15"/>
-        <UsageCount Value="22"/>
+        <EditorIndex Value="1"/>
+        <CursorPos X="5" Y="12"/>
+        <UsageCount Value="23"/>
         <Loaded Value="True"/>
       </Unit3>
       <Unit4>
         <Filename Value="src\models\daos\ucategoriadao.pas"/>
         <IsPartOfProject Value="True"/>
-        <EditorIndex Value="3"/>
-        <CursorPos X="16" Y="10"/>
-        <UsageCount Value="22"/>
+        <EditorIndex Value="2"/>
+        <CursorPos X="29" Y="13"/>
+        <UsageCount Value="23"/>
         <Loaded Value="True"/>
       </Unit4>
     </Units>
-    <JumpHistory Count="8" HistoryIndex="7">
+    <JumpHistory Count="9" HistoryIndex="8">
       <Position1>
         <Filename Value="src\forms\uprincipal.pas"/>
         <Caret Line="5"/>
@@ -84,6 +85,10 @@
         <Filename Value="src\models\ucategoriamodel.pas"/>
         <Caret Line="68" Column="10" TopLine="57"/>
       </Position8>
+      <Position9>
+        <Filename Value="src\forms\uprincipal.pas"/>
+        <Caret Line="12" Column="71" TopLine="9"/>
+      </Position9>
     </JumpHistory>
   </ProjectSession>
 </CONFIG>
