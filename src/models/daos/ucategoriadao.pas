@@ -5,10 +5,10 @@ unit ucategoriadao;
 interface
 
 uses
-  Classes, SysUtils;
+  Classes, SysUtils, TBaseDAO;
 
 type
-  TCategoriaDAO = class
+  TCategoriaDAO = class(TBaseDAO)
     public
       { public declarations }
     private
